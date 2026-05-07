@@ -3,7 +3,7 @@
 # c  = input("Enter a string: ")
 
 # Calculate length
-length = len("sumit")
+length = len("taha")
 print("Length of the string is:", length)
  
  #question 2
